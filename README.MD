@@ -1,11 +1,11 @@
-# [Waiting4<3](https://dacsang97.github.io/waiting-m2love/#/) Project
+# [l0v3](https://nguyenvancaoky.github.io/l0v3/#/) Project
 
 > A NextJS Project - Waiting for Love
 
 ## Tutorial
 
 * English
-* [Vietnamese](https://github.com/dacsang97/waiting-m2love/blob/master/HUONGDAN.MD)
+* [Vietnamese](https://nguyenvancaoky.github.io/l0v3/blob/master/HUONGDAN.MD)
 
 ## Build Setup
 
@@ -49,7 +49,3 @@ export default [
   ...,
 ]
 ```
-
-## Contact
-
-> SangND - [Facebook](https://www.facebook.com/dacsang97) - [Gmail](mailto:dacsang97@gmail.com)
