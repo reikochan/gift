@@ -2,7 +2,7 @@
   "name": "in-my-mind",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "SangND",
+  "author": "Nvck2002",
   "license": "MIT",
   "scripts": {
     "dev": "next",
