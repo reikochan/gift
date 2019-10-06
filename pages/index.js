@@ -12,7 +12,7 @@ export default class IndexPage extends React.PureComponent {
         <iframe
           width="0"
           height="0"
-          src="https://www.youtube.com/embed/gphA89W5xdQ?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0"
+          src="https://www.youtube.com/embed/hmz9FazAoGA?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0"
           frameBorder="0"
           allow=""
           allowFullScreen
